@@ -1,1 +1,1 @@
-# Schulplaner-fuer-IServ
+# Schulplaner für IServ
